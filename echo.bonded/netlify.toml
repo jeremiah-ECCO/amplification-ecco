@@ -1,5 +1,5 @@
 [build]
-  command = "node check-links.mjs index.html echo.bonded/index.html 404.html"
+  command = "node check-links.mjs index.html 404.html"
   publish = "."
 
 [build.environment]
