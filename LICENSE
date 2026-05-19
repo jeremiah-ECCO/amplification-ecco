@@ -1,96 +1,143 @@
 Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International
 (CC BY-NC-ND 4.0)
 
-Copyright (c) 2025-2026 Jeremiah Wade Hearne / Ethereal Connections Co. (ECCO)
+Copyright (c) 2025–2026 Jeremiah Wade Hearne / Ethereal Connections Co. (ECCO)
+All rights reserved.
 
-This license covers the ECCO-authored editorial layer of the Bonded Tier II
-trailer (/echo.bonded/) on the ECCO Amplification Surface — the trailer's
-editorial framing, written copy, design system, and doctrinal commentary.
-That editorial layer is licensed under the Creative Commons
+This work is licensed under the Creative Commons
 Attribution-NonCommercial-NoDerivatives 4.0 International License.
 
 You are free to:
 
-  Share — copy and redistribute ECCO's editorial layer in any medium or
-          format for any non-commercial purpose, provided you give
-          appropriate credit to Ethereal Connections Co. and link back to
+  Share — copy and redistribute the material in any medium or format
+          for any non-commercial purpose, provided you give appropriate
+          credit to Ethereal Connections Co. and link back to
           https://etherealconnectionsco.com.
 
 Under the following terms:
 
-  Attribution    — Credit must read: "Source: ECCO · Amplification
+  Attribution    — You must give appropriate credit, provide a link to
+                   the license, and indicate if changes were made.
+                   Credit must read: "Source: ECCO · Amplification
                    Surface — Ethereal Connections Co.
                    (etherealconnectionsco.com)"
+
   NonCommercial  — You may not use the material for commercial purposes.
-  NoDerivatives  — If you remix or transform the material, you may not
-                   distribute the modified material.
-  No additional restrictions.
+                   This includes, but is not limited to, repackaging,
+                   rebranding, or incorporating any portion of this
+                   work into a paid product, paid newsletter, paid
+                   course, or any commercial offering.
 
-  Full license text:
-  https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
+  NoDerivatives  — If you remix, transform, or build upon the material,
+                   you may not distribute the modified material.
 
-================================================================
-WHAT THIS LICENSE DOES NOT COVER
-================================================================
+  No additional restrictions — You may not apply legal terms or
+                   technological measures that legally restrict others
+                   from doing anything the license permits.
 
-  - THE BONDED SCIENCE WORK OF DEREK ANTOINE LEE.
+Notices:
 
-    The Bonded Science framework, U.S. Patent Application US19438644,
-    the five Zenodo deposits, the architecture, the diagrams, AND the
-    architecture animation embedded in this trailer's index.html are
-    the property of Derek Antoine Lee. They are listed Private for
-    Study. They are NOT licensed under CC BY-NC-ND 4.0. No license is
-    granted to reproduce, redistribute, modify, derive from, or
-    commercialize them, in whole or in part, by any means, beyond
-    reading the publicly hosted materials in their original form.
+  This license does NOT cover:
 
-    ECCO holds NO rights to the Bonded Science framework, its
-    representations, the patent filing, the Zenodo deposits, the
-    architecture, the diagrams, or the embedded animation. ECCO's
-    site-building services — HTML, CSS, design system, deployment
-    infrastructure — are provided under a separate service arrangement
-    with Derek Antoine Lee and do not constitute or transfer any rights
-    in the underlying Bonded Science work. Provenance stays with the
-    originator.
+    - The doctrine, framework, or written methodology of the
+      "Global Sanctuary Rebuild," "Provenance Echo," "Anti-Entropy
+      Protocol," "Sovereign Provenance Architecture," "Cultural
+      Universalism," or any other named conceptual framework
+      authored by Jeremiah Wade Hearne. These frameworks are governed
+      by their own respective licenses, separate from the CC BY-NC-ND
+      4.0 grant on this repository. (For example, the Sovereign
+      Provenance Architecture is published as a Consortium
+      Specification under CC BY-SA 4.0 at
+      spa.etherealconnectionsco.com; the others vary in posture
+      between public and internal.) Inclusion of a framework name on
+      this surface for editorial purposes does not extend or alter
+      that framework's own license.
 
-    The embedded animation is named here explicitly, and excluded
-    explicitly, so that the CC BY-NC-ND grant on the ECCO editorial
-    layer cannot be read to sweep in a representation of Derek's
-    science. The editorial framing is ECCO's; every representation of
-    the Bonded Science work — the animation included — is Derek's.
+    - The visual identity of Ethereal Connections Co., including
+      but not limited to the ECCO seal, the design language used
+      across ECCO surfaces, and any associated trade dress. These
+      are protected as the trade dress and unregistered marks of
+      Ethereal Connections Co.
 
-  - POSTURE: NAMED COLLABORATION.
+    - Third-party amplification subjects. This repository is the
+      ECCO Amplification Surface — a multi-subject editorial
+      amplification of the work of independent builders. Each
+      subject is amplified through a Tier II trailer subdirectory
+      on this surface (the ECCO-authored editorial layer), with
+      the originator's substance hosted independently at the
+      originator's own domain (Tier III, originator-owned). The
+      first subject is the work of Derek Antoine Lee
+      (@treeminded / @derekantoinelee), amplified through the Tier
+      II trailer at /echo.bonded/ on this surface, with the
+      originator's substance at bonded.etherealconnectionsco.com.
+      Derek's underlying work — including the Bonded Science
+      framework, the five Zenodo publications, U.S. Patent
+      Application US19438644, the architecture animation, and any of
+      his own creative or research artifacts — remains his property.
+      It is referenced here with Derek Antoine Lee's permission, as
+      part of a named collaboration, for editorial and commentary
+      purposes, and is NOT licensed under CC BY-NC-ND 4.0. It may not
+      be reproduced, excerpted, or redistributed without separate
+      written permission from Derek Antoine Lee. Each additional
+      subject added to this surface inherits the same carve-out
+      structure: the editorial framing is ECCO's; the underlying
+      subject work remains the property of its originator.
 
-    This trailer is published with Derek Antoine Lee's consent, as the
-    editorial layer of an ongoing collaboration — ECCO builds and hosts
-    Derek's Tier III surface (bonded.etherealconnectionsco.com) under a
-    service arrangement with him. This is NOT an unsolicited
-    amplification. Derek's right to request modification or removal of
-    the ECCO editorial layer is preserved.
+      The CC BY-NC-ND 4.0 grant on this repository covers ECCO's
+      editorial framing, design system, and doctrinal commentary
+      only. It does NOT cover any representation of a subject's
+      underlying work. For the Bonded subject specifically, the
+      architecture animation embedded as H.264 video inside
+      /echo.bonded/index.html is a representation of Derek's Bonded
+      Science framework — and, consistent with the Builder Statement
+      in Derek's own Tier III LICENSE, ECCO holds no rights to it.
+      The animation, the architecture, the diagrams, and every other
+      representation of the Bonded Science work are the property of
+      Derek Antoine Lee and are NOT licensed under CC BY-NC-ND 4.0.
+      The distinction is load-bearing per subject: ECCO's editorial
+      layer is licensed under CC BY-NC-ND 4.0; the subject's
+      underlying work — and any representation of it — remains the
+      property of the originator. Provenance stays with the
+      originator.
 
-  - NAMED CONCEPTUAL FRAMEWORKS authored by Jeremiah Wade Hearne — the
-    Global Sanctuary Rebuild, Provenance Echo, Anti-Entropy Protocol,
-    Sovereign Provenance Architecture, and Cultural Universalism — are
-    governed by their own respective licenses, separate from this grant.
+    - Posture: collaboration, named where it exists. As a surface
+      default, an ECCO amplification is an unsolicited act of
+      editorial amplification unless a subject's collaboration is
+      explicitly named. For the Bonded subject, the collaboration is
+      named: ECCO designed, builds, and hosts Derek's Tier III surface
+      (bonded.etherealconnectionsco.com) under a service arrangement
+      with him, and the Bonded amplification is published with Derek
+      Antoine Lee's consent — it is not unsolicited. Each subject's
+      right of refusal is preserved regardless: if a subject requests
+      modification or removal of their ECCO editorial layer, that
+      request will be honored. The posture as it applies to each
+      subject is stated on this surface.
 
-  - THE VISUAL IDENTITY of Ethereal Connections Co., including the ECCO
-    seal, the design language used across ECCO surfaces, and any
-    associated trade dress and unregistered marks.
+    - Third-party content referenced via external URLs. Those works
+      remain the property of their respective owners and are cited
+      under fair use for research and commentary purposes.
 
-================================================================
-INQUIRIES
-================================================================
+  COMMERCIAL USE REQUIRES WRITTEN PERMISSION.
+  For licensing inquiries, partnership proposals, or any commercial
+  use of this work, contact: jeremiah@etherealconnectionsco.com
 
-  For the Bonded Science framework, licensing requests, collaboration,
-  or any use beyond private study — direct correspondence to Derek
-  Antoine Lee (@derekantoinelee), or visit
+  For permission to use Derek Antoine Lee's underlying Bonded Science
+  materials, contact Derek directly via @derekantoinelee on Instagram,
+  or visit his Tier III substance surface at
   bonded.etherealconnectionsco.com.
 
-  For commercial licensing of ECCO's editorial layer, or any use of the
-  Amplification Surface beyond the terms above:
-  jeremiah@etherealconnectionsco.com
+  Full license text: https://creativecommons.org/licenses/by-nc-nd/4.0/legalcode
 
-----------------------------------------------------------------
+────────────────────────────────────────────────────────────────────────────
+
+ECCO operates under a public posture for its diagnostic, educational,
+lead-funnel, case-study, field-note, and amplification surfaces (such
+as the Scanner, the Patron Toolkit, the Mirror, the Echo / Field Notes
+lineage, and this Amplification surface) and a closed posture for its
+commercial methodology and direct revenue infrastructure. The
+visibility of this repository reflects that posture; it is not an
+invitation to repackage, resell, or otherwise capture the work for
+purposes that do not credit or sustain its source.
 
 Provenance over performance. Infrastructure over influence.
 Doctrine over excuse.
