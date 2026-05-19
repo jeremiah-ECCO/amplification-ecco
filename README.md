@@ -96,7 +96,7 @@ and ECCO's own subdomains are carried by quarterly editorial review):
 **Bonded Tier II trailer** (`/echo.bonded/index.html`):
 
 - Five Zenodo DOIs (Bonded Science publication record) — linked on the
-  trailer as `https://doi.org/…` URLs and verified by the link gate.
+  trailer as `https://doi.org/…` URLs and checked by the link gate.
   (Derek's own Tier III surface links the same five the same way.)
   - `https://doi.org/10.5281/zenodo.18648464` (Entropy Is Not Destiny, 2026)
   - `https://doi.org/10.5281/zenodo.17526990` (Grid Guard Pulse Cooling System, 2025)
